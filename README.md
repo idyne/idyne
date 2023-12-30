@@ -2,6 +2,7 @@
 
 [![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=idyne)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idyne)](https://github.com/anuraghazra/github-readme-stats)
+[![Emre's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=idyne)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **idyne/idyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
