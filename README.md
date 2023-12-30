@@ -1,4 +1,5 @@
-### Hey there, I'm Emre, a passionate gamer and game developer from Izmir. I have a background in Computer Engineering, which has given me a strong foundation in coding and problem-solving.   
+### Hey there,  
+I'm Emre, a passionate gamer and game developer from Izmir. I have a background in Computer Engineering, which has given me a strong foundation in coding and problem-solving.   
 
 I've always been fascinated by the world of gaming and how it constantly evolves and pushes the boundaries of technology. That's why I decided to pursue a career in game development, where I can combine my love for gaming with my technical skills.   
 
