@@ -1,5 +1,5 @@
 ### Hey there, I'm Emre,
-a gamer and game developer from Izmir. I studied Computer Engineering, which taught me how to code and solve problems.
+A gamer and game developer from Izmir. I studied Computer Engineering, which taught me how to code and solve problems.
 
 I've always loved playing games. That's why I chose to make games, so I can use my love for gaming and my tech skills together.
 
