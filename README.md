@@ -1,13 +1,9 @@
-### Hey there,  
-I'm Emre, a passionate gamer and game developer from Izmir. I have a background in Computer Engineering, which has given me a strong foundation in coding and problem-solving.   
+### Hey there, I'm Emre,
+a gamer and game developer from Izmir. I studied Computer Engineering, which taught me how to code and solve problems.
 
-I've always been fascinated by the world of gaming and how it constantly evolves and pushes the boundaries of technology. That's why I decided to pursue a career in game development, where I can combine my love for gaming with my technical skills.   
+I've always loved playing games. That's why I chose to make games, so I can use my love for gaming and my tech skills together.
 
-Throughout my career, I have worked on various projects, from mobile games to virtual reality experiences. Each project has challenged me and allowed me to grow both personally and professionally. I thrive in fast-paced and collaborative environments, and I'm always eager to learn new skills and techniques to improve my craft.   
-
-Outside of work, you can find me exploring new games and genres, attending gaming conventions, and connecting with fellow gamers. I believe that being a part of the gaming community not only brings joy, but also opens up opportunities for networking and learning.   
-
-I'm currently seeking new opportunities in game development, where I can bring my creativity, technical expertise, and passion for gaming to the table. If you're looking for a dedicated and enthusiastic game developer, let's connect and see how we can work together to create amazing gaming experiences.  
+I've worked on different projects, like mobile games and virtual reality. Each project made me learn and get better at what I do. I like working in fast-paced and collaborative teams and I'm always excited to learn new things to make my games even better.  
 
 [![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=idyne)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idyne)](https://github.com/anuraghazra/github-readme-stats)  
